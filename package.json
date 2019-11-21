@@ -1,5 +1,5 @@
 {
-  "name": "CHANGENAME",
+  "name": "practiceMap",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -30,6 +30,7 @@
   "dependencies": {
     "bootstrap": "^4.3.1",
     "jquery": "^3.4.1",
+    "load-google-maps-api": "^2.0.1",
     "popper.js": "^1.16.0"
   }
 }
